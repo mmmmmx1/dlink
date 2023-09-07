@@ -21,6 +21,7 @@ In the websFormHandler function
 ![image-1](./img/5.jpg)
 
 Accessing the /goform route need a tokenid, and access this route can get a tokenid
+
 ![image-1](./img/6.jpg)
 
 ## Verify
