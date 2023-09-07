@@ -6,3 +6,4 @@ http://www.dlink.com.cn/techsupport/ProductInfo.aspx?m=DIR-816
 
 ## Vulnerability
 Vulnerability is in ./bin/goahead. The function corresponding to Diagnosis can be found in the formDefineManagement function
+![image-1](./img/2.jpg)
