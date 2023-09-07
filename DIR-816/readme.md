@@ -28,7 +28,7 @@ First, get a tokenid
 ```
 curl http://127.0.0.1/dir_login.asp
 ```
-Excuting command
+And then excuting a command
 ```
 import requests
 
