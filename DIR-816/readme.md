@@ -20,7 +20,7 @@ but in the main function, Accessing the /goform route requires verification by t
 In the websFormHandler function
 ![image-1](./img/5.jpg)
 
-Accessing the /goform route need a tokenid, and access this route can get a tokenid
+Accessing the /goform route need a tokenid, and access this route can get a tokenid 
 
 ![image-1](./img/6.jpg)
 
