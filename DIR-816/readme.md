@@ -9,5 +9,7 @@ Vulnerability is in ./bin/goahead. The function corresponding to Diagnosis can b
 ![image-1](./img/2.jpg)
 
 In the sub_45AC4C function 
-
 ![image-1](./img/3.jpg)
+
+
+## Verify
