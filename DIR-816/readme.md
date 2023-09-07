@@ -11,6 +11,7 @@ Vulnerability is in ./bin/goahead. The function corresponding to Diagnosis can b
 In the sub_45AC4C function  
 
 ![image-1](./img/3.jpg)
+
 After concatenating the strings, the system command is executed.
 
 but in the main function, Accessing the /goform route requires verification by the websFormHandler function
