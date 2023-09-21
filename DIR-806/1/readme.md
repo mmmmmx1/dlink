@@ -19,3 +19,5 @@ gdb:
 
 Set the HTTP_ST parameter as HTTP_ST="urn:service:1;ls", The results are shown in the figure below: 
 ![image-1](../img/1.jpg)
+
+No filtering is done, and then the lxmldbc_system function is passed in to execute causing the command execute
