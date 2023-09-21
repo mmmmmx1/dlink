@@ -17,5 +17,5 @@ gdb:
 
 `target remote 127.0.0.1:12345` 
 
-Set the HTTP_ST parameter as HTTP_ST="urn:service:1;ls" 
+Set the HTTP_ST parameter as HTTP_ST="urn:service:1;ls", The results are shown in the figure below: 
 ![image-1](../img/1.jpg)
