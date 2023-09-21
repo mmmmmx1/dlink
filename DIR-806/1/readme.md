@@ -3,5 +3,5 @@
 http://www.dlink.com.cn/techsupport/ProductInfo.aspx?m=DIR-806 
 ![image-1](../img/4.jpg)
 ## Debugging verification
-Set the HTTP_ST parameter as HTTP_ST="urn::service:1;ls" 
+Set the HTTP_ST parameter as HTTP_ST="urn:service:1;ls" 
 ![image-1](../img/1.jpg)
