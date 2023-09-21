@@ -18,6 +18,6 @@ gdb:
 `target remote 127.0.0.1:12345` 
 
 Set the HTTP_ST parameter as HTTP_ST="urn:service:1;ls", The results are shown in the figure below: 
-![image-1](../img/1.jpg)
+![image-1](../img/5.jpg)
 
 No filtering is done, and then the lxmldbc_system function is passed in to execute causing the command execute
