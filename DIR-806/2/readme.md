@@ -18,3 +18,4 @@ gdb:
 
 Set the HTTP_ST parameter as REMOTE_PORT="8888;ls;", The results are shown in the figure below: 
 ![image-1](../img/2.jpg)
+No filtering is done, and then the lxmldbc_system function is passed in to execute causing the command execute
