@@ -1,4 +1,4 @@
-# D-LINK DIR-806 1200M11AC wireless router DIR806A1_FW100CNb11 command injection(parameter of REMOTE_PORT)
+# D-LINK DIR-806 1200M11AC wireless router DIR806A1_FW100CNb11 command injection(parameter of SERVER_ID)
 ## Firmware address
 http://www.dlink.com.cn/techsupport/ProductInfo.aspx?m=DIR-806 
 ![image-1](../img/4.jpg)
@@ -17,7 +17,7 @@ gdb:
 
 `target remote 127.0.0.1:12345` 
 
-Set the REMOTE_PORT parameter as REMOTE_PORT="1;ls", The results are shown in the figure below: 
+Set the SERVER_ID parameter as SERVER_ID="1;ls", The results are shown in the figure below: 
 ![image-1](../img/3.jpg)
 
 No filtering is done, and then the lxmldbc_system function is passed in to execute causing the command execute
